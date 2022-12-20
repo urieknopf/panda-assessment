@@ -41,7 +41,7 @@ def create_xml(dataframe, column_names):
             ET.SubElement(participant_id, "itemdata", name=column_names[7], value=row[7])
 
         tree = ET.ElementTree(root)
-        tree.write("filename.xml")
+        tree.write("xml_output.xml")
     except Exception as e:
         print("An error occurred while creating XML file. Error: ", e)
 
