@@ -1,0 +1,5 @@
+ParticipantID|diagnosis|date_diagnosis|ongoing|date_resolved|add_comm|int_value |data_missing
+001Zique|Diagnosis for 001Zique|2021-05-12|N||Additional Comment for 001Zique| 1 | 
+002Zique|Diagnosis for 002Zique|2021-05-13|N||Additional Comment for 002Zique| 2 | data here
+003Zique|Diagnosis for 003Zique|2021-05-14|N||Additional Comment for 003Zique| 3 | data here
+004Zique|Diagnosis for 004Zique|2021-05-15|N||Additional Comment for 004Zique| 4 | 
